@@ -26,7 +26,8 @@
     ],
     "exports": {
         ".": "./mod.ts",
-        "./factories/route-factory": "./factories/route-factory.ts"
+        "./factories/route-factory": "./factories/route-factory.ts",
+        "./zod/get-defaults": "./zod/get-defaults.ts"
     },
     "tasks": {
         "dev": "deno test --watch",
