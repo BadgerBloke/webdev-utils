@@ -1,6 +1,6 @@
 {
     "name": "@mksingh/utils",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "A collection of TypeScript utilities for Deno including route factory with navigation support",
     "author": {
         "name": "MK Singh",
